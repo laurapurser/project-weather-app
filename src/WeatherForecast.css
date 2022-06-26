@@ -10,4 +10,9 @@
 
 .forecast-day {
   font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.forecast-temps {
+  margin-top: 5px;
 }
