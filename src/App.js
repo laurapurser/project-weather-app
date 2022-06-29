@@ -13,15 +13,19 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Laura Purser
+            Laura Purser.
           </a>{" "}
-          and is {""}
+          It is {""}
           <a
             href="https://github.com/laurapurser/react-weather-app-new"
             target="_blank"
             rel="noreferrer"
           >
             open-sourced on Github
+          </a>{" "}
+          and{" "}
+          <a href="https://chic-mousse-665ce6.netlify.app" target="_blank">
+            hosted on Netlify
           </a>
         </footer>
       </div>
