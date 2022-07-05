@@ -24,7 +24,11 @@ function App() {
             open-sourced on Github
           </a>{" "}
           and{" "}
-          <a href="https://chic-mousse-665ce6.netlify.app" target="_blank">
+          <a
+            href="https://chic-mousse-665ce6.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>
