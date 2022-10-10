@@ -1,3 +1,18 @@
+A fully functioning and responsive dictionary app made with React. 
+User inputs a word of their choice, and the definition is returned, along with synonyms, examples, phonetic description and audio, and photos relating to that word. 
+I used Free Dictionary API for the info and Pexels API for the photos. Using axios to call both. 
+
+Hosted on Netlify: https://timely-cuchufli-86fe4b.netlify.app 
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
