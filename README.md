@@ -1,13 +1,4 @@
-A fully functioning and responsive dictionary app made with React. 
-User inputs a word of their choice, and the definition is returned, along with synonyms, examples, phonetic description and audio, and photos relating to that word. 
-I used Free Dictionary API for the info and Pexels API for the photos. Using axios to call both. 
-
-Hosted on Netlify: https://timely-cuchufli-86fe4b.netlify.app 
-
-
-
-
-
+A fully functioning weather app made with React. I used the OpenWeather API for all the weather data. It includes current temperature, conditions, humidity level, windspeed and others, as well as a 5 day forecast. User inputs city of choice and the accurate data is returned.
 
 
 
